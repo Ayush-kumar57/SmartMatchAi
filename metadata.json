@@ -1,0 +1,8 @@
+{
+  "name": "SmartMatch AI - Enterprise NLP Semantic Intelligence Platform",
+  "description": "Cognitive talent architecture powered by NLP v3.2 semantic embeddings, real-time vector ranking, and deep cross-encoder matching for recruiters and candidates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
